@@ -1,0 +1,10 @@
+{
+  "id": "paste-image-cloudinary",
+  "name": "Paste Image Cloudinary",
+  "description": "This plugin uploads the image from your clipboard to Cloudinary with downscaling and compression",
+  "author": "ajkdrag",
+  "isDesktopOnly": true,
+  "minAppVersion": "0.1.0",
+  "version": "1.0.0",
+  "fundingUrl":"https://buymeacoffee.com/ajkdrag"
+}

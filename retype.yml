@@ -1,0 +1,24 @@
+input: ./docs
+output: ./docs/.retype
+url: ajkdrag.github.io/paste-image-cloudinary/
+branding:
+  logo: assets/obsidian-logo.png
+  logoDark: assets/obsidian-logo.png
+  colors:
+    label:
+      text: "#fff"
+      background: "#7E1DFB"
+  title: Paste Image Cloudinary
+  label: For Obsidian
+edit:
+  repo: https://github.com/ajkdrag/paste-image-cloudinary
+  base: /docs
+links:
+  - text: Home
+    link: https://ajkdrag.github.io/paste-image-cloudinary/
+    icon: home
+  - text: Github
+    link: https://github.com/ajkdrag/paste-image-cloudinary
+    icon: mark-github
+footer:
+  copyright: "&copy; Copyright Altamash Khan {{ year }}. All rights reserved."
